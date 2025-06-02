@@ -194,3 +194,45 @@ line-height: 1.6;
     font-size: 1.25rem; 
     margin-bottom: 0.5rem;
 }
+
+/* Footer Styles */
+footer {
+    background-color: #1f2937; 
+    color: white; 
+    padding: 2rem 2rem; 
+    text-align: center;
+}
+
+.footer-div {
+    max-width: 800px; 
+    margin: auto;
+}
+
+.footer-div h3 {
+    font-size: 1.5rem; 
+    margin-bottom: 1rem;
+}
+
+.footer-div p {
+    margin: 0.5rem 0;
+}
+
+.footer-div p a {
+    color: #60a5fa; 
+    text-decoration: none;
+}
+
+.footer-div-1 {
+    margin: 1rem 0;
+}
+
+.footer-div-1 a {
+    margin: 0 0.5rem; 
+    color: #9ca3af;
+}
+
+footer h6 {
+    margin-top: 1.5rem; 
+    font-size: 0.9rem; 
+    color: #9ca3af;
+}
